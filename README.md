@@ -2,6 +2,5 @@
 - 👀 I’m interested in reading and designing websites.
 - 🌱 I’m currently learning Software Engineering at the National Technical University.
 - 💞️ I enjoy working on web design and software development projects.
-- 📫 How to reach me: [your preferred email or social media].
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love exploring every corner of Costa Rica.
